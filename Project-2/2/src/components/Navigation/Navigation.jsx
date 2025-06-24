@@ -1,13 +1,10 @@
 import styles from "./Navigation.module.css";
 
 const Navigation = () => {
-
-// console.log (styles); *2 { Navigation: '_navigation_1nb3008_1' } 
-
   return (
-     <nav className={`${styles.navigation} container`}>
+    <nav className={`${styles.navigation} container`}>
       <div className="logo">
-        <img src="public/images/logo.png" alt="logo" />
+        <img src="/images/logo.png" alt="do some coding logo" />
       </div>
 
       <ul>
@@ -15,8 +12,8 @@ const Navigation = () => {
         <li>About</li>
         <li>Contact</li>
       </ul>
-    </nav> 
- );
-}
+    </nav>
+  );
+};
 
 export default Navigation;
