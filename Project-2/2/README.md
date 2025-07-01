@@ -13,6 +13,6 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 # Project-2
-#Output
+# Output
 
 ![2025-06-27 17_48_09-Snip   Sketch](https://github.com/user-attachments/assets/b50a422e-1fda-4c4e-9752-46aeb061882d)
